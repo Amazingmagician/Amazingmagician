@@ -1,4 +1,4 @@
-Olá, Aqui Estão Alguns dos Meus Estudos e Trabalhos:
+Olá, 👋
 
 
 - 🔭 Atualmente trabalhando na FitBank450
