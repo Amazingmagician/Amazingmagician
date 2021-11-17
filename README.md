@@ -1,8 +1,5 @@
-Olá, Aqui Estão Alguns dos Meus Estudos e Trabalhos 👋
+Olá, Aqui Estão Alguns dos Meus Estudos e Trabalhos:
 
-
-
-Here are some ideas to get you started:
 
 - 🔭 Atualmente trabalhando na FitBank450
 - 🌱 Estudando C#, SQL, .Net
