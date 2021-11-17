@@ -2,7 +2,7 @@ Olá, 👋
 
 
 - 🔭 Atualmente trabalhando no FitBank450
-- 🌱 Estudando C#, SQL, .Net
+- 🌱 Estudando C#, SQL, .Net, JavaScript
 - 😄 Sempre aprendendo
 <div align="center">
   <a href="https://github.com/Amazingmagician">
