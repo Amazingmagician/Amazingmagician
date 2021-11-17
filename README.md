@@ -1,7 +1,7 @@
 Olá, 👋
 
 
-- 🔭 Atualmente trabalhando na FitBank450
+- 🔭 Atualmente trabalhando no FitBank450
 - 🌱 Estudando C#, SQL, .Net
 - 😄 Sempre aprendendo
 <div align="center">
